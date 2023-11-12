@@ -1,4 +1,6 @@
 # deep daiv. 23' Fall Multimodal
+Archiving project repository of deep daiv. 23' Fall Season Multimodal Team   
+
 
 ### Team Member
 Leader: [Yoorhim Cho](https://github.com/ofzlo)   

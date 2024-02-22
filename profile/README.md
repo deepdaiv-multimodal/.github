@@ -1,7 +1,7 @@
-# deep daiv. 23' Fall Multimodal
+# deep daiv. 24' Winter Multimodal
 Archiving project repository of deep daiv. 23' Fall Season Multimodal Team   
 
 
 ### Team Member
-Leader: [Yoorhim Cho](https://github.com/ofzlo)   
-Member: [Jibin Song](https://github.com/jibin86), [Youna Shin](https://github.com/youna3515), [Heejae Ynag](https://github.com/neulbo0829), [Yeabin Lim](https://github.com/binnnnnny), [Yongseong Lim](https://github.com/YongCastle), [Jinu Hong]()
+Advisor: [Yoorhim Cho](https://github.com/ofzlo)   
+Member: [Jiwon Kim](https://github.com/hanajibsa), [Taekyung Kim](https://github.com/taekyungss), [Eunjoo Park](https://github.com/pej0918), [Hankyeol Lee](https://github.com/guts4)

@@ -1,5 +1,5 @@
 # deep daiv. 24' Winter Multimodal
-Archiving project repository of deep daiv. 23' Fall Season Multimodal Team   
+Archiving project repository of deep daiv. 24' Winter Season Multimodal Team   
 
 
 ### Team Member

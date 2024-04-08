@@ -1,7 +1,14 @@
-# deep daiv. 24' Winter Multimodal
-Archiving project repository of deep daiv. 24' Winter Season Multimodal Team   
+# deep daiv. Multimodal
+This Organization is for archiving project repositories of deep daiv. Multimodal Team   
 
+## Team Member
+Mentor: [Yoorhim Cho](https://github.com/ofzlo)   
+### ☃️ 24' Winter   
+Member: [Jiwon Kim](https://github.com/hanajibsa), [Taekyung Kim](https://github.com/taekyungss), [Eunju Park](https://github.com/pej0918), [Hankyeol Lee](https://github.com/guts4)   
+- Architecture Build Research for Learning Tri Modalities [[code](https://github.com/deepdaiv-multimodal/24w-Tri-Modalities)]
 
-### Team Member
-Advisor: [Yoorhim Cho](https://github.com/ofzlo)   
-Member: [Jiwon Kim](https://github.com/hanajibsa), [Taekyung Kim](https://github.com/taekyungss), [Eunju Park](https://github.com/pej0918), [Hankyeol Lee](https://github.com/guts4)
+### 🍂 23' Fall   
+Member: [Jibin Song](https://github.com/jibin86), [Youna Shin](https://github.com/youna3515), [Heejae Ynag](https://github.com/neulbo0829), [Yeabin Lim](https://github.com/binnnnnny), [Yongseong Lim](https://github.com/YongCastle), [Jinu Hong]()   
+- The Imagination Becomes a Reality: Novel Text Generation Based to Custom Image Synthesis [[code](https://github.com/deepdaiv-multimodal/23f-custom-img-to-text)]
+- Research for enhancing TempoToken [[code](https://github.com/deepdaiv-multimodal/23f-enhance-TempoToken)]
+

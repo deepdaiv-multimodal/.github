@@ -2,7 +2,10 @@
 This Organization is for archiving project repositories of deep daiv. Multimodal Team   
 
 ## Team Member
-Mentor: [Yoorhim Cho](https://github.com/ofzlo)   
+Mentor: [Heejae Yang](https://github.com/neulbo0829) ('24 Summer - *present*)
+
+
+Mentor: [Yoorhim Cho](https://github.com/ofzlo) ('23 Fall - '24 Spring)   
 ### 🦋 24' Spring
 Member: [Jiwon Kim](https://github.com/hanajibsa), [Taekyung Kim](https://github.com/taekyungss), [Eunju Park](https://github.com/pej0918), [Hankyeol Lee](https://github.com/guts4)   
 - KB-VQA Using Multimodal Larage Language Model(MLLM) [[code](https://github.com/deepdaiv-multimodal/24s-VQA-MLLM.git)]
